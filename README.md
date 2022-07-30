@@ -4,9 +4,12 @@
 ## oursite
 窩們ㄉ線上測試http request smuggling tool: [http://103.144.32.13:8090/](http://103.144.32.13:8090/)<br>
 **活動完會立刻撤掉，~~如果哪天更新的話 那大概是我找到法規可以規避ㄌ~~
+## read our plan?
+[hackmd](https://hackmd.io/@KvN1027/rkwwc-n3q)
 ## tools
 smuggler: 知名腳本smugglerㄉ改良版，更加輕量化!<br>
-dns_scaner:利用curl讀取批量匯入的dns名單，篩選出可以被正確requestㄉ網站<br>
+scan_script: 利用curl讀取批量匯入的dns名單，篩選出可以被正確requestㄉ網站<br>
+http-request-master: 深度檢測用的burpsuite的plugin
 ... : 有些我怕開源以後國家會送我金手銬、職業條紋套裝、多年包吃包住，所以就不公開惹 
 ## reference
 [1] https://brightsec.com/blog/http-request-smuggling-hrs/#credentials-hijacking<br>
